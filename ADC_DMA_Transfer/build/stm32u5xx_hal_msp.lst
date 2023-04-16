@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 1
 
 
    1              		.cpu cortex-m33
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
   27:Src/stm32u5xx_hal_msp.c **** /* Private typedef -----------------------------------------------------------*/
   28:Src/stm32u5xx_hal_msp.c **** /* USER CODE BEGIN TD */
   29:Src/stm32u5xx_hal_msp.c **** 
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 2
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 2
 
 
   30:Src/stm32u5xx_hal_msp.c **** /* USER CODE END TD */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
   44 0006 D3F89420 		ldr	r2, [r3, #148]
   45 000a 42F00402 		orr	r2, r2, #4
   46 000e C3F89420 		str	r2, [r3, #148]
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 3
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 3
 
 
   47              		.loc 1 69 3 view .LVU4
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
   87              		.cfi_offset 4, -12
   88              		.cfi_offset 5, -8
   89              		.cfi_offset 14, -4
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 4
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 4
 
 
   90 0002 BDB0     		sub	sp, sp, #244
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  112:Src/stm32u5xx_hal_msp.c ****     PC3     ------> ADC1_IN4
  113:Src/stm32u5xx_hal_msp.c ****     PA2     ------> ADC1_IN7
  114:Src/stm32u5xx_hal_msp.c ****     PA3     ------> ADC1_IN8
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 5
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 5
 
 
  115:Src/stm32u5xx_hal_msp.c ****     PB0     ------> ADC1_IN15
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  142 003c 0028     		cmp	r0, #0
  143 003e 4BD1     		bne	.L10
  144              	.L7:
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 6
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 6
 
 
  104:Src/stm32u5xx_hal_msp.c **** 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  183              		.loc 1 107 5 view .LVU42
  184 007e D3F88C20 		ldr	r2, [r3, #140]
  185 0082 02F00102 		and	r2, r2, #1
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 7
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 7
 
 
  186 0086 0292     		str	r2, [sp, #8]
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  224              	.LVL8:
  122:Src/stm32u5xx_hal_msp.c ****     GPIO_InitStruct.Mode = GPIO_MODE_ANALOG;
  225              		.loc 1 122 5 view .LVU59
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 8
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 8
 
 
  122:Src/stm32u5xx_hal_msp.c ****     GPIO_InitStruct.Mode = GPIO_MODE_ANALOG;
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  266 00e0 00800242 		.word	1107460096
  267 00e4 000C0246 		.word	1174539264
  268 00e8 00080242 		.word	1107429376
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 9
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 9
 
 
  269 00ec 00000242 		.word	1107427328
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  161:Src/stm32u5xx_hal_msp.c ****     PB0     ------> ADC1_IN15
  162:Src/stm32u5xx_hal_msp.c ****     */
  163:Src/stm32u5xx_hal_msp.c ****     HAL_GPIO_DeInit(GPIOC, GPIO_PIN_0|GPIO_PIN_1|GPIO_PIN_3);
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 10
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 10
 
 
  164:Src/stm32u5xx_hal_msp.c **** 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  341              		.text
  342              	.Letext0:
  343              		.file 2 "c:\\users\\ya\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xpack-
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 11
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 11
 
 
  344              		.file 3 "c:\\users\\ya\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xpack-
@@ -613,20 +613,20 @@ ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 1
  353              		.file 12 "Inc/main.h"
  354              		.file 13 "Drivers/STM32U5xx_HAL_Driver/Inc/stm32u5xx_hal_pwr_ex.h"
  355              		.file 14 "<built-in>"
-ARM GAS  C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s 			page 12
+ARM GAS  C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s 			page 12
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32u5xx_hal_msp.c
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:22     .text.HAL_MspInit:0000000000000000 $t
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:28     .text.HAL_MspInit:0000000000000000 HAL_MspInit
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:66     .text.HAL_MspInit:0000000000000028 $d
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:71     .text.HAL_ADC_MspInit:0000000000000000 $t
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:77     .text.HAL_ADC_MspInit:0000000000000000 HAL_ADC_MspInit
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:266    .text.HAL_ADC_MspInit:00000000000000e0 $d
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:275    .text.HAL_ADC_MspDeInit:0000000000000000 $t
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:281    .text.HAL_ADC_MspDeInit:0000000000000000 HAL_ADC_MspDeInit
-C:\Users\Ya\AppData\Local\Temp\ccGJydN6.s:333    .text.HAL_ADC_MspDeInit:0000000000000034 $d
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:22     .text.HAL_MspInit:0000000000000000 $t
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:28     .text.HAL_MspInit:0000000000000000 HAL_MspInit
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:66     .text.HAL_MspInit:0000000000000028 $d
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:71     .text.HAL_ADC_MspInit:0000000000000000 $t
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:77     .text.HAL_ADC_MspInit:0000000000000000 HAL_ADC_MspInit
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:266    .text.HAL_ADC_MspInit:00000000000000e0 $d
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:275    .text.HAL_ADC_MspDeInit:0000000000000000 $t
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:281    .text.HAL_ADC_MspDeInit:0000000000000000 HAL_ADC_MspDeInit
+C:\Users\Ya\AppData\Local\Temp\cctdDGmW.s:333    .text.HAL_ADC_MspDeInit:0000000000000034 $d
 
 UNDEFINED SYMBOLS
 HAL_PWREx_EnableVddA
